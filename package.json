@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/lefreet/demo/issues"
   },
-  "homepage": "https://github.com/lefreet/demo#readme"
+  "homepage": "https://github.com/lefreet/demo#readme",
+  "dependencies": {
+    "markdown-it": "^8.4.1",
+    "markdown-it-container": "^2.0.0"
+  }
 }
